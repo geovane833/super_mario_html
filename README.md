@@ -23,3 +23,5 @@ Este é um projeto simples de um jogo inspirado no Mario, desenvolvido com HTML,
 2. Abra o arquivo `index.html` em seu navegador.
 3. Pressione qualquer tecla para fazer o Mario pular e desviar dos obstáculos.
 4. Tente evitar os obstáculos e continue jogando!
+
+## Geovane Systems
